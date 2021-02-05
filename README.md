@@ -1,2 +1,2 @@
 # Grafika3d
-Grafika 3d i animacja komputerowa - kółko
+https://threejs-kubaszolc.herokuapp.com
