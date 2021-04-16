@@ -122,7 +122,7 @@ sphere.rotation.y = 1.1 * elapsedTime
 
 
 
-particleMesh.rotation.y = mouseX * (0.001 * elapsedTime); 
+// particleMesh.rotation.y = mouseX * (0.001 * elapsedTime); 
 // particleMesh.rotation.x = mouseY * 0.001; 
 // Update Orbital Controls
 controls.update()
